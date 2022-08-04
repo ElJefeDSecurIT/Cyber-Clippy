@@ -32,7 +32,7 @@ in under 6 weeks,
 the first 5 people to complete the challenge get chance to win
 **an ADAFRUIT LOBE KIT WITH A RASPBERRY PI 4!!!!**(https://aka.ms/defcon30lobekit) 
 
-the next 5 to complete the challenge get 
+the next 5 to complete the challenge get the undying adulation of fans and maybe a 3 mo. xbox game pass. 
 
 # SHUT UP HOW DO I GET IN THE GAME?!?
 well, there are 50 chances to compete. only 5 will win.
