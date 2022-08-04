@@ -16,7 +16,7 @@ Well, we first want to have fun!
 
 We hypothesize that by participating in the Badgelife community it is a great way to engage with makers and hackers to listen and learn about what this community needs and how to enable them in the future. 
 
-So in spirit of this desire, we came up with the crazy idea: What if we made our own badge, brought our own Azure sphere Controller, and created a community challenge, what would happen?!?
+So in spirit of this desire, we came up with the crazy idea: What if we made our own badge, brought our own Azure sphere Controller, and created a community challenge where folks can learn how to hack an old school Altair 8800, what would happen?!?
 
 ### So What Happened?
 in under 6 weeks,
