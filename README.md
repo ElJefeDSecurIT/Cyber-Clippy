@@ -44,7 +44,7 @@ Entry fee: no fee. but there's a riddle.
 Competition will be fierce.
 <!-- "clippy's asshat" is the cipher -->
 
-## REGISTRATION:
+# REGISTRATION:
 you want a guaranteed chance at getting acompetition badge? 
 
 solve the riddle. 
@@ -52,14 +52,14 @@ solve the riddle.
 only the first 24 will be guaranteed. 
 <!-- how does one enter the Riddle, if not to go where one knows is Also Known As Microsoft slashes DEFCON30? -->
 
-## DISTRIBUTION
+# DISTRIBUTION
 competition badges will be distributed on 
 Friday 12 AUGUST AT 11:30 AT ### TBD ###
 
 There will be a one time half hour distribution window at 11:30 AM on 12 August. 
 any badges not claimed by prereg at the end of the 1st half hour wil be open to anyone, first come first served.
 
-## CONTEST
+# CONTEST
 Contest begins at HIGH NOON on FRIDAY 12 August. 
 
  * Contest ends once all prizes have been captured or by HIgh Noon Saturday 13 August.
@@ -76,7 +76,7 @@ And you can get the software here:
 - https://aka.ms/defcon30/altair8800  
 
 ## I JUST WANT THE CLIPPY BADGE HOW DO I GET THAT???
-hold on there cowpoke! we'll have plenty of ways to get your grubby lil hands on a clippy badge.
+hold on there cowpoke! we'll have plenty of ways to get your grubby lil hands on one of the other 350 clippy badge art.
 1. you get one as part of the competition. 
 2. find El Jefe. ask for a badge. if he has one, you are in luck! if you don't know, follow him on twitter, he'll let you know where he is. 
 3. you might be able to puy one for Charity at the Vendor pit. more details TBD as we learn more about badge sales in the vendor pit
