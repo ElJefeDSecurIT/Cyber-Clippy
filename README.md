@@ -34,8 +34,10 @@ the first 5 people to complete the challenge get chance to win
 
 the next 5 to complete the challenge get the undying adulation of fans and maybe a 3 mo. xbox game pass. 
 
-# SHUT UP HOW DO I GET IN THE GAME?!?
-well, there are 50 chances to compete. only 5 will win.
+# HOW TO ENTER
+<!-- G4M3 st@rt5 n0w! !!||:: aHR0cHM6Ly93d3cuYmFzZTY0ZW5jb2RlLm5ldC9zaGFyZS9iaENQYQ== -->
+
+there are 50 chances to compete. only 5 will win.
 
 Entry fee: no fee. but there's a riddle.
 
@@ -46,13 +48,23 @@ Competition will be fierce.
 you want a guaranteed chance at getting acompetition badge? 
 
 solve the riddle. 
-only the first 24 will be guaranteed. 
-<!-- would one dare to enter, the form of an office in winter, per chance the entry? -->
 
+only the first 24 will be guaranteed. 
+<!-- how does one enter the Riddle, if not to go where one knows is Also Known As Microsoft slashes DEFCON30? -->
 
 ## DISTRIBUTION
 competition badges will be distributed on 
-THURSDAY 11 AUGUST AT 11AM AT ### TBD ###
+Friday 12 AUGUST AT 11:30 AT ### TBD ###
+
+There will be a one time half hour distribution window at 11:30 AM on 12 August. 
+any badges not claimed by prereg at the end of the 1st half hour wil be open to anyone, first come first served.
+
+## CONTEST
+Contest begins at HIGH NOON on FRIDAY 12 August. 
+
+ * Contest ends once all prizes have been captured or by HIgh Noon Saturday 13 August.
+
+
 
 ## OK I DON'T WANT TO COMPETE I JUST WANT A SPHERE
 ok, well, the ones we have are for competition, but you are welcome to purchase your own at: 
@@ -61,9 +73,9 @@ ok, well, the ones we have are for competition, but you are welcome to purchase 
 - https://aka.ms/defcon30/microsdclick
 
 And you can get the software here:
-- https://aka.ms/defcon30/altair8800 
+- https://aka.ms/defcon30/altair8800  
 
-## I JUST WANT THE CLIPPY BADGE HOW DO I GET THAT ALREADY!
+## I JUST WANT THE CLIPPY BADGE HOW DO I GET THAT???
 hold on there cowpoke! we'll have plenty of ways to get your grubby lil hands on a clippy badge.
 1. you get one as part of the competition. 
 2. find El Jefe. ask for a badge. if he has one, you are in luck! if you don't know, follow him on twitter, he'll let you know where he is. 
