@@ -2,7 +2,7 @@
 ## Clippy badge start page and how to get your hands on one
 
 Welcome to the Cyber Clippy badge competition!
-We are so excited to bring this to you all, and here's how you can get your hands on one.
+We are so excited to bring this to you all, and here's how you can get your hands on one. check back often in the next week, we'll keep all the details fresh right here.
 
 brought to you by Office of the CTO Maker Incubation Team at Microsoft.
 
