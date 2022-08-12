@@ -1,6 +1,8 @@
 # Cyber-Clippy
 ## Clippy badge start page and how to get your hands on one
 
+IF YOU ARE LOOKING HOW TO DECIFER THE CIPHER JUST GO TO http://aka.ms/clippybadge
+
 Welcome to the Cyber Clippy badge competition!
 We are so excited to bring this to you all, and here's how you can get your hands on one. check back often in the next week, we'll keep all the details fresh right here.
 
